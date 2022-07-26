@@ -9,13 +9,13 @@
     "full_name": "aws-samples/amazon-mq-workshop",
     "stargazers_count": 52,
     "open_issues_count": 5,
-    "forks_count": 54
+    "forks_count": 55
   },
   {
     "full_name": "cobiwave/simplefolio",
-    "stargazers_count": 10743,
-    "open_issues_count": 49,
-    "forks_count": 4104
+    "stargazers_count": 10773,
+    "open_issues_count": 50,
+    "forks_count": 4111
   },
   {
     "full_name": "krmahadevan/junit5-games",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "testsigmahq/testsigma",
-    "stargazers_count": 333,
+    "stargazers_count": 340,
     "open_issues_count": 13,
-    "forks_count": 70
+    "forks_count": 71
   },
   {
     "full_name": "protofire/blockchain-learning-path",
-    "stargazers_count": 2094,
+    "stargazers_count": 2107,
     "open_issues_count": 7,
-    "forks_count": 445
+    "forks_count": 446
   },
   {
     "full_name": "AnnaKwasnikHawaii/Bug-Reporting",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "StMarco89/automationpractice.com",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 4,
     "forks_count": 17
   },
   {
     "full_name": "microsoft/api-guidelines",
-    "stargazers_count": 19797,
-    "open_issues_count": 102,
-    "forks_count": 2408
+    "stargazers_count": 19830,
+    "open_issues_count": 103,
+    "forks_count": 2411
   },
   {
     "full_name": "josemanuelep/Airbnb-automation",
@@ -93,55 +93,55 @@
     "full_name": "gominima/minima",
     "stargazers_count": 152,
     "open_issues_count": 1,
-    "forks_count": 16
+    "forks_count": 18
   },
   {
     "full_name": "python-pillow/Pillow",
-    "stargazers_count": 9962,
-    "open_issues_count": 118,
-    "forks_count": 1879
+    "stargazers_count": 9980,
+    "open_issues_count": 119,
+    "forks_count": 1882
   },
   {
     "full_name": "DenverCoder1/github-readme-streak-stats",
-    "stargazers_count": 1433,
-    "open_issues_count": 7,
-    "forks_count": 268
+    "stargazers_count": 1441,
+    "open_issues_count": 6,
+    "forks_count": 270
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 43739,
-    "open_issues_count": 285,
-    "forks_count": 10511
+    "stargazers_count": 43854,
+    "open_issues_count": 286,
+    "forks_count": 10544
   },
   {
     "full_name": "rahuldkjain/github-profile-readme-generator",
-    "stargazers_count": 10877,
-    "open_issues_count": 196,
-    "forks_count": 2731
+    "stargazers_count": 10928,
+    "open_issues_count": 199,
+    "forks_count": 2748
   },
   {
     "full_name": "actions/cache",
-    "stargazers_count": 2970,
-    "open_issues_count": 133,
-    "forks_count": 733
+    "stargazers_count": 2985,
+    "open_issues_count": 134,
+    "forks_count": 738
   },
   {
     "full_name": "louislam/uptime-kuma",
-    "stargazers_count": 19267,
-    "open_issues_count": 664,
-    "forks_count": 1530
+    "stargazers_count": 19592,
+    "open_issues_count": 673,
+    "forks_count": 1550
   },
   {
     "full_name": "urish/ngx-moment",
-    "stargazers_count": 1157,
+    "stargazers_count": 1158,
     "open_issues_count": 41,
     "forks_count": 155
   },
   {
     "full_name": "bitwarden/clients",
-    "stargazers_count": 4237,
-    "open_issues_count": 328,
-    "forks_count": 539
+    "stargazers_count": 4270,
+    "open_issues_count": 318,
+    "forks_count": 543
   },
   {
     "full_name": "sendgrid/sendgrid-java",
@@ -151,20 +151,20 @@
   },
   {
     "full_name": "karatelabs/karate",
-    "stargazers_count": 6139,
-    "open_issues_count": 35,
-    "forks_count": 1591
+    "stargazers_count": 6153,
+    "open_issues_count": 40,
+    "forks_count": 1593
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 55804,
+    "stargazers_count": 55918,
     "open_issues_count": 276,
-    "forks_count": 7463
+    "forks_count": 7472
   },
   {
     "full_name": "appium-userland/appium-flutter-driver",
-    "stargazers_count": 276,
-    "open_issues_count": 40,
+    "stargazers_count": 278,
+    "open_issues_count": 39,
     "forks_count": 123
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "appium/appium",
-    "stargazers_count": 15324,
-    "open_issues_count": 223,
-    "forks_count": 5699
+    "stargazers_count": 15331,
+    "open_issues_count": 225,
+    "forks_count": 5702
   }
 ]
