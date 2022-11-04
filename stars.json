@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "TheJambo/awesome-testing",
+    "stargazers_count": 1034,
+    "open_issues_count": 4,
+    "forks_count": 135
+  },
+  {
     "full_name": "wesbos/JavaScript30",
-    "stargazers_count": 21603,
+    "stargazers_count": 21631,
     "open_issues_count": 36,
-    "forks_count": 28213
+    "forks_count": 28286
   },
   {
     "full_name": "TakahikoKawasaki/CountryCode",
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 13137,
+    "stargazers_count": 13201,
     "open_issues_count": 2,
-    "forks_count": 965
+    "forks_count": 975
   },
   {
     "full_name": "graphql-java/awesome-graphql-java",
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "cobiwave/simplefolio",
-    "stargazers_count": 11514,
+    "stargazers_count": 11538,
     "open_issues_count": 59,
-    "forks_count": 4404
+    "forks_count": 4416
   },
   {
     "full_name": "krmahadevan/junit5-games",
@@ -61,15 +67,15 @@
   },
   {
     "full_name": "testsigmahq/testsigma",
-    "stargazers_count": 403,
+    "stargazers_count": 405,
     "open_issues_count": 30,
-    "forks_count": 80
+    "forks_count": 81
   },
   {
     "full_name": "protofire/blockchain-learning-path",
-    "stargazers_count": 2256,
+    "stargazers_count": 2263,
     "open_issues_count": 8,
-    "forks_count": 479
+    "forks_count": 481
   },
   {
     "full_name": "AnnaKwasnikHawaii/Bug-Reporting",
@@ -79,13 +85,13 @@
   },
   {
     "full_name": "StMarco89/automationpractice.com",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 4,
     "forks_count": 19
   },
   {
     "full_name": "microsoft/api-guidelines",
-    "stargazers_count": 20198,
+    "stargazers_count": 20205,
     "open_issues_count": 111,
     "forks_count": 2469
   },
@@ -122,7 +128,7 @@
   {
     "full_name": "rohanb10/snoozz-tab-snoozing",
     "stargazers_count": 95,
-    "open_issues_count": 64,
+    "open_issues_count": 65,
     "forks_count": 19
   },
   {
@@ -133,50 +139,44 @@
   },
   {
     "full_name": "python-pillow/Pillow",
-    "stargazers_count": 10275,
-    "open_issues_count": 110,
-    "forks_count": 1926
+    "stargazers_count": 10280,
+    "open_issues_count": 112,
+    "forks_count": 1928
   },
   {
     "full_name": "DenverCoder1/github-readme-streak-stats",
-    "stargazers_count": 1881,
+    "stargazers_count": 1892,
     "open_issues_count": 7,
-    "forks_count": 335
+    "forks_count": 334
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 47580,
+    "stargazers_count": 47677,
     "open_issues_count": 261,
-    "forks_count": 11946
+    "forks_count": 11973
   },
   {
     "full_name": "rahuldkjain/github-profile-readme-generator",
-    "stargazers_count": 13091,
+    "stargazers_count": 13120,
     "open_issues_count": 249,
-    "forks_count": 3399
+    "forks_count": 3411
   },
   {
     "full_name": "actions/cache",
-    "stargazers_count": 3206,
-    "open_issues_count": 124,
-    "forks_count": 814
+    "stargazers_count": 3217,
+    "open_issues_count": 123,
+    "forks_count": 819
   },
   {
     "full_name": "louislam/uptime-kuma",
-    "stargazers_count": 22665,
-    "open_issues_count": 666,
-    "forks_count": 1899
+    "stargazers_count": 22727,
+    "open_issues_count": 668,
+    "forks_count": 1912
   },
   {
     "full_name": "urish/ngx-moment",
     "stargazers_count": 1161,
     "open_issues_count": 41,
     "forks_count": 156
-  },
-  {
-    "full_name": "bitwarden/clients",
-    "stargazers_count": 4831,
-    "open_issues_count": 390,
-    "forks_count": 630
   }
 ]
