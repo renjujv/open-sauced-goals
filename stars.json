@@ -1,19 +1,25 @@
 [
   {
+    "full_name": "hasura/graphql-bench",
+    "stargazers_count": 231,
+    "open_issues_count": 38,
+    "forks_count": 34
+  },
+  {
     "full_name": "abhivaikar/howtheytest",
-    "stargazers_count": 4461,
+    "stargazers_count": 4468,
     "open_issues_count": 6,
     "forks_count": 366
   },
   {
     "full_name": "FakeFiller/fake-filler-extension",
-    "stargazers_count": 478,
+    "stargazers_count": 480,
     "open_issues_count": 61,
     "forks_count": 131
   },
   {
     "full_name": "graphql/graphql-playground",
-    "stargazers_count": 8282,
+    "stargazers_count": 8287,
     "open_issues_count": 398,
     "forks_count": 731
   },
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "wesbos/JavaScript30",
-    "stargazers_count": 22010,
+    "stargazers_count": 22110,
     "open_issues_count": 35,
-    "forks_count": 28866
+    "forks_count": 28954
   },
   {
     "full_name": "TakahikoKawasaki/CountryCode",
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 13694,
+    "stargazers_count": 13735,
     "open_issues_count": 2,
-    "forks_count": 1058
+    "forks_count": 1065
   },
   {
     "full_name": "graphql-java/awesome-graphql-java",
@@ -73,9 +79,9 @@
   },
   {
     "full_name": "cobiwave/simplefolio",
-    "stargazers_count": 11619,
-    "open_issues_count": 66,
-    "forks_count": 4513
+    "stargazers_count": 11633,
+    "open_issues_count": 67,
+    "forks_count": 4519
   },
   {
     "full_name": "krmahadevan/junit5-games",
@@ -85,13 +91,13 @@
   },
   {
     "full_name": "testsigmahq/testsigma",
-    "stargazers_count": 424,
-    "open_issues_count": 24,
-    "forks_count": 84
+    "stargazers_count": 431,
+    "open_issues_count": 29,
+    "forks_count": 86
   },
   {
     "full_name": "protofire/blockchain-learning-path",
-    "stargazers_count": 2279,
+    "stargazers_count": 2282,
     "open_issues_count": 9,
     "forks_count": 482
   },
@@ -109,9 +115,9 @@
   },
   {
     "full_name": "microsoft/api-guidelines",
-    "stargazers_count": 20350,
+    "stargazers_count": 20365,
     "open_issues_count": 115,
-    "forks_count": 2498
+    "forks_count": 2501
   },
   {
     "full_name": "josemanuelep/Airbnb-automation",
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "gominima/minima",
-    "stargazers_count": 153,
+    "stargazers_count": 154,
     "open_issues_count": 0,
     "forks_count": 18
   },
   {
     "full_name": "python-pillow/Pillow",
-    "stargazers_count": 10333,
-    "open_issues_count": 116,
-    "forks_count": 1944
+    "stargazers_count": 10341,
+    "open_issues_count": 120,
+    "forks_count": 1945
   },
   {
     "full_name": "DenverCoder1/github-readme-streak-stats",
-    "stargazers_count": 1978,
-    "open_issues_count": 7,
+    "stargazers_count": 1992,
+    "open_issues_count": 6,
     "forks_count": 341
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 48418,
-    "open_issues_count": 256,
-    "forks_count": 12224
-  },
-  {
-    "full_name": "rahuldkjain/github-profile-readme-generator",
-    "stargazers_count": 13471,
-    "open_issues_count": 256,
-    "forks_count": 3543
+    "stargazers_count": 48510,
+    "open_issues_count": 257,
+    "forks_count": 12303
   }
 ]
