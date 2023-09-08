@@ -1,8 +1,8 @@
 [
   {
     "full_name": "kysely-org/kysely",
-    "stargazers_count": 7244,
-    "open_issues_count": 59,
+    "stargazers_count": 7263,
+    "open_issues_count": 62,
     "forks_count": 162
   },
   {
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 42730,
+    "stargazers_count": 42960,
     "open_issues_count": 171,
-    "forks_count": 1065
+    "forks_count": 1070
   },
   {
     "full_name": "selenide-examples/selenide-allure-junit",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "apideck-libraries/postman-to-k6",
-    "stargazers_count": 167,
+    "stargazers_count": 168,
     "open_issues_count": 18,
     "forks_count": 12
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 254903,
-    "open_issues_count": 185,
-    "forks_count": 29110
+    "stargazers_count": 255242,
+    "open_issues_count": 186,
+    "forks_count": 29145
   },
   {
     "full_name": "shankybnl/selenium_BDD_framework",
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "pritunl/pritunl-client-electron",
-    "stargazers_count": 1117,
-    "open_issues_count": 7,
+    "stargazers_count": 1119,
+    "open_issues_count": 8,
     "forks_count": 219
   },
   {
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "abhivaikar/howtheytest",
-    "stargazers_count": 5377,
+    "stargazers_count": 5381,
     "open_issues_count": 4,
     "forks_count": 474
   },
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "graphql/graphql-playground",
-    "stargazers_count": 8548,
+    "stargazers_count": 8552,
     "open_issues_count": 406,
     "forks_count": 741
   },
   {
     "full_name": "TheJambo/awesome-testing",
-    "stargazers_count": 1402,
+    "stargazers_count": 1403,
     "open_issues_count": 4,
     "forks_count": 179
   },
   {
     "full_name": "wesbos/JavaScript30",
-    "stargazers_count": 25159,
+    "stargazers_count": 25170,
     "open_issues_count": 43,
-    "forks_count": 34683
+    "forks_count": 34733
   },
   {
     "full_name": "TakahikoKawasaki/CountryCode",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 20153,
+    "stargazers_count": 20193,
     "open_issues_count": 2,
-    "forks_count": 1829
+    "forks_count": 1836
   },
   {
     "full_name": "graphql-java/awesome-graphql-java",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "cobiwave/simplefolio",
-    "stargazers_count": 12587,
-    "open_issues_count": 56,
-    "forks_count": 5237
+    "stargazers_count": 12599,
+    "open_issues_count": 57,
+    "forks_count": 5245
   },
   {
     "full_name": "krmahadevan/junit5-games",
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "testsigmahq/testsigma",
-    "stargazers_count": 690,
+    "stargazers_count": 697,
     "open_issues_count": 43,
-    "forks_count": 131
+    "forks_count": 133
   },
   {
     "full_name": "protofire/blockchain-learning-path",
     "stargazers_count": 2457,
     "open_issues_count": 9,
-    "forks_count": 511
+    "forks_count": 512
   },
   {
     "full_name": "AnnaKwasnikHawaii/Bug-Reporting",
