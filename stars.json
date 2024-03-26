@@ -7,33 +7,33 @@
   },
   {
     "full_name": "fm-sys/snapdrop-android",
-    "stargazers_count": 788,
+    "stargazers_count": 789,
     "open_issues_count": 22,
     "forks_count": 56
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 60772,
-    "open_issues_count": 750,
-    "forks_count": 3199
+    "stargazers_count": 60908,
+    "open_issues_count": 748,
+    "forks_count": 3221
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 55934,
+    "stargazers_count": 56035,
     "open_issues_count": 36,
-    "forks_count": 5647
+    "forks_count": 5659
   },
   {
     "full_name": "microsoft/playwright-java",
-    "stargazers_count": 989,
-    "open_issues_count": 25,
-    "forks_count": 180
+    "stargazers_count": 992,
+    "open_issues_count": 22,
+    "forks_count": 181
   },
   {
     "full_name": "kysely-org/kysely",
-    "stargazers_count": 8977,
-    "open_issues_count": 87,
-    "forks_count": 209
+    "stargazers_count": 9009,
+    "open_issues_count": 85,
+    "forks_count": 213
   },
   {
     "full_name": "3EN-Cloud/netsumo",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 49239,
-    "open_issues_count": 206,
-    "forks_count": 1215
+    "stargazers_count": 49361,
+    "open_issues_count": 204,
+    "forks_count": 1223
   },
   {
     "full_name": "selenide-examples/selenide-allure-junit",
@@ -67,21 +67,21 @@
   },
   {
     "full_name": "mifmif/Generex",
-    "stargazers_count": 371,
+    "stargazers_count": 370,
     "open_issues_count": 19,
     "forks_count": 76
   },
   {
     "full_name": "apideck-libraries/postman-to-k6",
-    "stargazers_count": 200,
+    "stargazers_count": 201,
     "open_issues_count": 16,
     "forks_count": 20
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 286906,
+    "stargazers_count": 287303,
     "open_issues_count": 245,
-    "forks_count": 31313
+    "forks_count": 31347
   },
   {
     "full_name": "shankybnl/selenium_BDD_framework",
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "pritunl/pritunl-client-electron",
-    "stargazers_count": 1191,
-    "open_issues_count": 10,
+    "stargazers_count": 1192,
+    "open_issues_count": 11,
     "forks_count": 232
   },
   {
     "full_name": "hasura/graphql-bench",
     "stargazers_count": 256,
     "open_issues_count": 43,
-    "forks_count": 42
+    "forks_count": 41
   },
   {
     "full_name": "abhivaikar/howtheytest",
     "stargazers_count": 5772,
     "open_issues_count": 3,
-    "forks_count": 538
+    "forks_count": 537
   },
   {
     "full_name": "FakeFiller/fake-filler-extension",
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "graphql/graphql-playground",
-    "stargazers_count": 8665,
+    "stargazers_count": 8668,
     "open_issues_count": 407,
-    "forks_count": 722
+    "forks_count": 723
   },
   {
     "full_name": "TheJambo/awesome-testing",
-    "stargazers_count": 1638,
+    "stargazers_count": 1640,
     "open_issues_count": 4,
     "forks_count": 218
   },
   {
     "full_name": "wesbos/JavaScript30",
-    "stargazers_count": 26605,
-    "open_issues_count": 40,
-    "forks_count": 35870
+    "stargazers_count": 26622,
+    "open_issues_count": 35,
+    "forks_count": 35879
   },
   {
     "full_name": "TakahikoKawasaki/CountryCode",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 28250,
-    "open_issues_count": 2,
-    "forks_count": 2750
+    "stargazers_count": 28333,
+    "open_issues_count": 3,
+    "forks_count": 2762
   },
   {
     "full_name": "graphql-java/awesome-graphql-java",
@@ -158,7 +158,7 @@
   {
     "full_name": "graphql-java-generator/graphql-gradle-plugin-project",
     "stargazers_count": 51,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 8
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "cobiwave/simplefolio",
-    "stargazers_count": 13080,
+    "stargazers_count": 13093,
     "open_issues_count": 65,
-    "forks_count": 5535
+    "forks_count": 5538
   }
 ]
