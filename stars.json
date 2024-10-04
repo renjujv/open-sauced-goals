@@ -1,15 +1,15 @@
 [
   {
     "full_name": "warrenday/graphql-network-inspector",
-    "stargazers_count": 483,
+    "stargazers_count": 485,
     "open_issues_count": 18,
     "forks_count": 47
   },
   {
     "full_name": "raycast/extensions",
-    "stargazers_count": 5270,
-    "open_issues_count": 472,
-    "forks_count": 2968
+    "stargazers_count": 5279,
+    "open_issues_count": 444,
+    "forks_count": 2974
   },
   {
     "full_name": "vitalets/playwright-webhook-reporter",
@@ -19,8 +19,8 @@
   },
   {
     "full_name": "allure-framework/allure-js",
-    "stargazers_count": 226,
-    "open_issues_count": 47,
+    "stargazers_count": 225,
+    "open_issues_count": 42,
     "forks_count": 120
   },
   {
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "graphql/graphiql",
-    "stargazers_count": 16010,
-    "open_issues_count": 390,
-    "forks_count": 1715
+    "stargazers_count": 16019,
+    "open_issues_count": 392,
+    "forks_count": 1717
   },
   {
     "full_name": "minimaxir/big-list-of-naughty-strings",
-    "stargazers_count": 46159,
+    "stargazers_count": 46160,
     "open_issues_count": 104,
-    "forks_count": 2129
+    "forks_count": 2126
   },
   {
     "full_name": "vladmihalcea/db-util",
@@ -61,33 +61,33 @@
   },
   {
     "full_name": "fm-sys/snapdrop-android",
-    "stargazers_count": 839,
+    "stargazers_count": 838,
     "open_issues_count": 16,
     "forks_count": 60
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 65988,
-    "open_issues_count": 663,
-    "forks_count": 3596
+    "stargazers_count": 66044,
+    "open_issues_count": 667,
+    "forks_count": 3603
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 63362,
+    "stargazers_count": 63434,
     "open_issues_count": 41,
-    "forks_count": 6616
+    "forks_count": 6636
   },
   {
     "full_name": "microsoft/playwright-java",
-    "stargazers_count": 1130,
+    "stargazers_count": 1132,
     "open_issues_count": 28,
     "forks_count": 205
   },
   {
     "full_name": "kysely-org/kysely",
-    "stargazers_count": 10436,
-    "open_issues_count": 106,
-    "forks_count": 266
+    "stargazers_count": 10452,
+    "open_issues_count": 107,
+    "forks_count": 267
   },
   {
     "full_name": "3EN-Cloud/netsumo",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 54262,
-    "open_issues_count": 201,
-    "forks_count": 1353
+    "stargazers_count": 54329,
+    "open_issues_count": 202,
+    "forks_count": 1352
   },
   {
     "full_name": "selenide-examples/selenide-allure-junit",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 313370,
-    "open_issues_count": 343,
-    "forks_count": 33448
+    "stargazers_count": 313535,
+    "open_issues_count": 349,
+    "forks_count": 33476
   },
   {
     "full_name": "shankybnl/selenium_BDD_framework",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "pritunl/pritunl-client-electron",
-    "stargazers_count": 1243,
+    "stargazers_count": 1242,
     "open_issues_count": 7,
     "forks_count": 234
   },
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "abhivaikar/howtheytest",
-    "stargazers_count": 5997,
+    "stargazers_count": 5998,
     "open_issues_count": 5,
-    "forks_count": 573
+    "forks_count": 574
   },
   {
     "full_name": "FakeFiller/fake-filler-extension",
-    "stargazers_count": 562,
+    "stargazers_count": 563,
     "open_issues_count": 54,
-    "forks_count": 159
+    "forks_count": 160
   },
   {
     "full_name": "graphql/graphql-playground",
-    "stargazers_count": 8756,
+    "stargazers_count": 8759,
     "open_issues_count": 407,
-    "forks_count": 731
+    "forks_count": 734
   },
   {
     "full_name": "TheJambo/awesome-testing",
-    "stargazers_count": 1835,
+    "stargazers_count": 1836,
     "open_issues_count": 5,
-    "forks_count": 245
+    "forks_count": 246
   }
 ]
