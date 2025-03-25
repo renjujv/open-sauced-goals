@@ -7,27 +7,27 @@
   },
   {
     "full_name": "grpc/grpc-java",
-    "stargazers_count": 11648,
-    "open_issues_count": 495,
-    "forks_count": 3883
+    "stargazers_count": 11652,
+    "open_issues_count": 489,
+    "forks_count": 3887
   },
   {
     "full_name": "smithoss/gonymizer",
     "stargazers_count": 154,
-    "open_issues_count": 34,
+    "open_issues_count": 31,
     "forks_count": 37
   },
   {
     "full_name": "warrenday/graphql-network-inspector",
-    "stargazers_count": 525,
+    "stargazers_count": 526,
     "open_issues_count": 15,
     "forks_count": 58
   },
   {
     "full_name": "raycast/extensions",
-    "stargazers_count": 6003,
-    "open_issues_count": 765,
-    "forks_count": 3629
+    "stargazers_count": 6020,
+    "open_issues_count": 771,
+    "forks_count": 3648
   },
   {
     "full_name": "vitalets/playwright-webhook-reporter",
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "allure-framework/allure-js",
-    "stargazers_count": 246,
-    "open_issues_count": 69,
+    "stargazers_count": 247,
+    "open_issues_count": 68,
     "forks_count": 125
   },
   {
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "vitalets/playwright-magic-steps",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 1,
     "forks_count": 5
   },
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "graphql/graphiql",
-    "stargazers_count": 16337,
+    "stargazers_count": 16343,
     "open_issues_count": 413,
-    "forks_count": 1745
+    "forks_count": 1747
   },
   {
     "full_name": "minimaxir/big-list-of-naughty-strings",
-    "stargazers_count": 47026,
+    "stargazers_count": 47041,
     "open_issues_count": 106,
-    "forks_count": 2150
+    "forks_count": 2151
   },
   {
     "full_name": "vladmihalcea/db-util",
@@ -79,33 +79,33 @@
   },
   {
     "full_name": "fm-sys/snapdrop-android",
-    "stargazers_count": 930,
+    "stargazers_count": 931,
     "open_issues_count": 19,
     "forks_count": 63
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 70546,
-    "open_issues_count": 800,
-    "forks_count": 3973
+    "stargazers_count": 70725,
+    "open_issues_count": 799,
+    "forks_count": 3995
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 69440,
+    "stargazers_count": 70745,
     "open_issues_count": 45,
-    "forks_count": 7410
+    "forks_count": 7496
   },
   {
     "full_name": "microsoft/playwright-java",
-    "stargazers_count": 1241,
+    "stargazers_count": 1249,
     "open_issues_count": 28,
-    "forks_count": 221
+    "forks_count": 222
   },
   {
     "full_name": "kysely-org/kysely",
-    "stargazers_count": 11574,
+    "stargazers_count": 11595,
     "open_issues_count": 115,
-    "forks_count": 294
+    "forks_count": 296
   },
   {
     "full_name": "3EN-Cloud/netsumo",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 58572,
-    "open_issues_count": 214,
-    "forks_count": 1481
+    "stargazers_count": 58665,
+    "open_issues_count": 219,
+    "forks_count": 1485
   },
   {
     "full_name": "selenide-examples/selenide-allure-junit",
     "stargazers_count": 100,
     "open_issues_count": 0,
-    "forks_count": 51
+    "forks_count": 52
   },
   {
     "full_name": "paoloantinori/gmail-labeler",
@@ -151,20 +151,20 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 333408,
-    "open_issues_count": 489,
-    "forks_count": 35256
+    "stargazers_count": 333831,
+    "open_issues_count": 491,
+    "forks_count": 35286
   },
   {
     "full_name": "shankybnl/selenium_BDD_framework",
     "stargazers_count": 51,
     "open_issues_count": 2,
-    "forks_count": 52
+    "forks_count": 53
   },
   {
     "full_name": "pritunl/pritunl-client-electron",
     "stargazers_count": 1292,
-    "open_issues_count": 8,
+    "open_issues_count": 7,
     "forks_count": 238
   },
   {
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "abhivaikar/howtheytest",
-    "stargazers_count": 6119,
+    "stargazers_count": 6122,
     "open_issues_count": 5,
     "forks_count": 587
   }
