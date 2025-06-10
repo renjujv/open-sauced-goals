@@ -19,9 +19,9 @@
   },
   {
     "full_name": "grpc/grpc-java",
-    "stargazers_count": 11747,
-    "open_issues_count": 490,
-    "forks_count": 3900
+    "stargazers_count": 11753,
+    "open_issues_count": 494,
+    "forks_count": 3901
   },
   {
     "full_name": "smithoss/gonymizer",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "raycast/extensions",
-    "stargazers_count": 6305,
-    "open_issues_count": 688,
-    "forks_count": 3972
+    "stargazers_count": 6320,
+    "open_issues_count": 717,
+    "forks_count": 3991
   },
   {
     "full_name": "vitalets/playwright-webhook-reporter",
@@ -51,7 +51,7 @@
     "full_name": "allure-framework/allure-js",
     "stargazers_count": 253,
     "open_issues_count": 82,
-    "forks_count": 122
+    "forks_count": 123
   },
   {
     "full_name": "anishkny/playwright-test-coverage",
@@ -74,12 +74,12 @@
   {
     "full_name": "graphql/graphiql",
     "stargazers_count": 16491,
-    "open_issues_count": 392,
+    "open_issues_count": 380,
     "forks_count": 1762
   },
   {
     "full_name": "minimaxir/big-list-of-naughty-strings",
-    "stargazers_count": 47205,
+    "stargazers_count": 47209,
     "open_issues_count": 108,
     "forks_count": 2157
   },
@@ -97,26 +97,26 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 73215,
-    "open_issues_count": 810,
-    "forks_count": 4209
+    "stargazers_count": 73323,
+    "open_issues_count": 825,
+    "forks_count": 4219
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 73107,
-    "open_issues_count": 46,
-    "forks_count": 7790
+    "stargazers_count": 73185,
+    "open_issues_count": 47,
+    "forks_count": 7803
   },
   {
     "full_name": "microsoft/playwright-java",
-    "stargazers_count": 1309,
-    "open_issues_count": 39,
-    "forks_count": 231
+    "stargazers_count": 1313,
+    "open_issues_count": 42,
+    "forks_count": 232
   },
   {
     "full_name": "kysely-org/kysely",
-    "stargazers_count": 12097,
-    "open_issues_count": 122,
+    "stargazers_count": 12125,
+    "open_issues_count": 123,
     "forks_count": 316
   },
   {
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 63464,
-    "open_issues_count": 235,
-    "forks_count": 1651
+    "stargazers_count": 63533,
+    "open_issues_count": 236,
+    "forks_count": 1652
   },
   {
     "full_name": "selenide-examples/selenide-allure-junit",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 349322,
-    "open_issues_count": 489,
-    "forks_count": 36717
+    "stargazers_count": 350452,
+    "open_issues_count": 494,
+    "forks_count": 36849
   },
   {
     "full_name": "shankybnl/selenium_BDD_framework",
