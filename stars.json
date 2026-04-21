@@ -1,19 +1,31 @@
 [
   {
+    "full_name": "NakliTechie/LocalMind",
+    "stargazers_count": 41,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "full_name": "NakliTechie/bahi",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "rtk-ai/rtk",
-    "stargazers_count": 28106,
-    "open_issues_count": 601,
-    "forks_count": 1641
+    "stargazers_count": 30981,
+    "open_issues_count": 636,
+    "forks_count": 1805
   },
   {
     "full_name": "pranshuparmar/witr",
-    "stargazers_count": 14301,
+    "stargazers_count": 14330,
     "open_issues_count": 4,
-    "forks_count": 359
+    "forks_count": 361
   },
   {
     "full_name": "plaid/sandbox-custom-users",
-    "stargazers_count": 58,
+    "stargazers_count": 59,
     "open_issues_count": 2,
     "forks_count": 52
   },
@@ -21,13 +33,13 @@
     "full_name": "tabulapdf/tabula-java",
     "stargazers_count": 2023,
     "open_issues_count": 195,
-    "forks_count": 451
+    "forks_count": 450
   },
   {
     "full_name": "StateSmith/StateSmith",
-    "stargazers_count": 896,
+    "stargazers_count": 898,
     "open_issues_count": 130,
-    "forks_count": 91
+    "forks_count": 92
   },
   {
     "full_name": "kellyjonbrazil/jtbl",
@@ -49,8 +61,8 @@
   },
   {
     "full_name": "grpc/grpc-java",
-    "stargazers_count": 11999,
-    "open_issues_count": 509,
+    "stargazers_count": 12005,
+    "open_issues_count": 514,
     "forks_count": 3985
   },
   {
@@ -63,13 +75,13 @@
     "full_name": "warrenday/graphql-network-inspector",
     "stargazers_count": 581,
     "open_issues_count": 30,
-    "forks_count": 70
+    "forks_count": 71
   },
   {
     "full_name": "raycast/extensions",
-    "stargazers_count": 7384,
-    "open_issues_count": 1189,
-    "forks_count": 5853
+    "stargazers_count": 7393,
+    "open_issues_count": 1200,
+    "forks_count": 5871
   },
   {
     "full_name": "vitalets/playwright-webhook-reporter",
@@ -91,7 +103,7 @@
   },
   {
     "full_name": "vitalets/playwright-magic-steps",
-    "stargazers_count": 56,
+    "stargazers_count": 57,
     "open_issues_count": 1,
     "forks_count": 4
   },
@@ -103,15 +115,15 @@
   },
   {
     "full_name": "graphql/graphiql",
-    "stargazers_count": 16819,
-    "open_issues_count": 419,
-    "forks_count": 1825
+    "stargazers_count": 16823,
+    "open_issues_count": 399,
+    "forks_count": 1826
   },
   {
     "full_name": "minimaxir/big-list-of-naughty-strings",
     "stargazers_count": 47617,
     "open_issues_count": 108,
-    "forks_count": 2160
+    "forks_count": 2159
   },
   {
     "full_name": "vladmihalcea/db-util",
@@ -121,33 +133,33 @@
   },
   {
     "full_name": "fm-sys/pairdrop-android",
-    "stargazers_count": 1048,
+    "stargazers_count": 1049,
     "open_issues_count": 22,
     "forks_count": 76
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 86637,
-    "open_issues_count": 620,
-    "forks_count": 5517
+    "stargazers_count": 86910,
+    "open_issues_count": 633,
+    "forks_count": 5542
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 81952,
+    "stargazers_count": 82029,
     "open_issues_count": 59,
-    "forks_count": 9028
+    "forks_count": 9038
   },
   {
     "full_name": "microsoft/playwright-java",
-    "stargazers_count": 1465,
+    "stargazers_count": 1468,
     "open_issues_count": 48,
     "forks_count": 274
   },
   {
     "full_name": "kysely-org/kysely",
-    "stargazers_count": 13681,
+    "stargazers_count": 13695,
     "open_issues_count": 153,
-    "forks_count": 401
+    "forks_count": 403
   },
   {
     "full_name": "3EN-Cloud/netsumo",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 69898,
-    "open_issues_count": 319,
-    "forks_count": 1912
-  },
-  {
-    "full_name": "selenide-examples/selenide-allure-junit",
-    "stargazers_count": 102,
-    "open_issues_count": 0,
-    "forks_count": 54
-  },
-  {
-    "full_name": "paoloantinori/gmail-labeler",
-    "stargazers_count": 49,
-    "open_issues_count": 0,
-    "forks_count": 11
+    "stargazers_count": 69956,
+    "open_issues_count": 322,
+    "forks_count": 1920
   }
 ]
