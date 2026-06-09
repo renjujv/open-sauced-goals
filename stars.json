@@ -1,15 +1,15 @@
 [
   {
     "full_name": "ritesh-kanwar/Cashiro",
-    "stargazers_count": 121,
-    "open_issues_count": 60,
-    "forks_count": 20
+    "stargazers_count": 127,
+    "open_issues_count": 62,
+    "forks_count": 23
   },
   {
     "full_name": "florisboard/florisboard",
-    "stargazers_count": 8391,
-    "open_issues_count": 467,
-    "forks_count": 661
+    "stargazers_count": 8405,
+    "open_issues_count": 469,
+    "forks_count": 665
   },
   {
     "full_name": "NakliTechie/KanZen",
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "localsend/localsend",
-    "stargazers_count": 82795,
-    "open_issues_count": 982,
-    "forks_count": 4487
+    "stargazers_count": 83033,
+    "open_issues_count": 983,
+    "forks_count": 4502
   },
   {
     "full_name": "NakliTechie/LocalMind",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "rtk-ai/rtk",
-    "stargazers_count": 58902,
-    "open_issues_count": 1093,
-    "forks_count": 3623
+    "stargazers_count": 60186,
+    "open_issues_count": 1140,
+    "forks_count": 3707
   },
   {
     "full_name": "pranshuparmar/witr",
-    "stargazers_count": 17680,
+    "stargazers_count": 17748,
     "open_issues_count": 8,
-    "forks_count": 549
+    "forks_count": 551
   },
   {
     "full_name": "plaid/sandbox-custom-users",
@@ -55,13 +55,13 @@
   },
   {
     "full_name": "tabulapdf/tabula-java",
-    "stargazers_count": 2027,
+    "stargazers_count": 2026,
     "open_issues_count": 196,
     "forks_count": 451
   },
   {
     "full_name": "StateSmith/StateSmith",
-    "stargazers_count": 913,
+    "stargazers_count": 915,
     "open_issues_count": 131,
     "forks_count": 94
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "grpc/grpc-java",
-    "stargazers_count": 12026,
+    "stargazers_count": 12025,
     "open_issues_count": 522,
     "forks_count": 3990
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "raycast/extensions",
-    "stargazers_count": 7537,
-    "open_issues_count": 1342,
-    "forks_count": 6180
+    "stargazers_count": 7539,
+    "open_issues_count": 1359,
+    "forks_count": 6207
   },
   {
     "full_name": "vitalets/playwright-webhook-reporter",
@@ -116,7 +116,7 @@
   {
     "full_name": "allure-framework/allure-js",
     "stargazers_count": 277,
-    "open_issues_count": 80,
+    "open_issues_count": 79,
     "forks_count": 130
   },
   {
@@ -139,43 +139,43 @@
   },
   {
     "full_name": "graphql/graphiql",
-    "stargazers_count": 16836,
-    "open_issues_count": 393,
-    "forks_count": 1840
+    "stargazers_count": 16841,
+    "open_issues_count": 387,
+    "forks_count": 1839
   },
   {
     "full_name": "minimaxir/big-list-of-naughty-strings",
-    "stargazers_count": 47663,
+    "stargazers_count": 47675,
     "open_issues_count": 108,
-    "forks_count": 2162
+    "forks_count": 2163
   },
   {
     "full_name": "vladmihalcea/db-util",
-    "stargazers_count": 258,
+    "stargazers_count": 257,
     "open_issues_count": 1,
     "forks_count": 27
   },
   {
     "full_name": "fm-sys/pairdrop-android",
-    "stargazers_count": 1058,
+    "stargazers_count": 1057,
     "open_issues_count": 26,
-    "forks_count": 77
+    "forks_count": 78
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 90313,
-    "open_issues_count": 166,
-    "forks_count": 5866
+    "stargazers_count": 90540,
+    "open_issues_count": 169,
+    "forks_count": 5883
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 83217,
-    "open_issues_count": 65,
-    "forks_count": 9214
+    "stargazers_count": 83335,
+    "open_issues_count": 66,
+    "forks_count": 9229
   },
   {
     "full_name": "microsoft/playwright-java",
-    "stargazers_count": 1489,
+    "stargazers_count": 1492,
     "open_issues_count": 53,
     "forks_count": 277
   }
