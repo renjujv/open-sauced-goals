@@ -1,44 +1,44 @@
 [
   {
     "full_name": "affaan-m/ECC",
-    "stargazers_count": 269195,
-    "open_issues_count": 236,
-    "forks_count": 40224
+    "stargazers_count": 270836,
+    "open_issues_count": 336,
+    "forks_count": 40494
   },
   {
     "full_name": "TencentCloud/TencentDB-Agent-Memory",
-    "stargazers_count": 27457,
-    "open_issues_count": 856,
-    "forks_count": 2643
+    "stargazers_count": 27633,
+    "open_issues_count": 882,
+    "forks_count": 2665
   },
   {
     "full_name": "ggml-org/whisper.cpp",
-    "stargazers_count": 53999,
-    "open_issues_count": 346,
+    "stargazers_count": 54090,
+    "open_issues_count": 351,
     "forks_count": 6201
   },
   {
     "full_name": "Vladimir-Urik/OxMgr",
-    "stargazers_count": 260,
+    "stargazers_count": 262,
     "open_issues_count": 19,
     "forks_count": 23
   },
   {
     "full_name": "diegosouzapw/OmniRoute",
-    "stargazers_count": 71164,
-    "open_issues_count": 407,
-    "forks_count": 10133
+    "stargazers_count": 72170,
+    "open_issues_count": 543,
+    "forks_count": 10312
   },
   {
     "full_name": "bbernhard/signal-cli-rest-api",
-    "stargazers_count": 2857,
+    "stargazers_count": 2863,
     "open_issues_count": 149,
-    "forks_count": 309
+    "forks_count": 311
   },
   {
     "full_name": "stupside/castor",
-    "stargazers_count": 2376,
-    "open_issues_count": 3,
+    "stargazers_count": 2383,
+    "open_issues_count": 4,
     "forks_count": 87
   },
   {
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "kunchenguid/lavish-axi",
-    "stargazers_count": 3903,
+    "stargazers_count": 3945,
     "open_issues_count": 57,
-    "forks_count": 352
+    "forks_count": 356
   },
   {
     "full_name": "headroomlabs-ai/headroom",
-    "stargazers_count": 74045,
-    "open_issues_count": 545,
-    "forks_count": 5719
+    "stargazers_count": 74262,
+    "open_issues_count": 443,
+    "forks_count": 5748
   },
   {
     "full_name": "Zackptg5/Disable_Dm-Verity_ForceEncrypt",
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "ritesh-kanwar/Cashiro",
-    "stargazers_count": 190,
-    "open_issues_count": 90,
+    "stargazers_count": 191,
+    "open_issues_count": 85,
     "forks_count": 39
   },
   {
     "full_name": "florisboard/florisboard",
-    "stargazers_count": 8682,
-    "open_issues_count": 486,
-    "forks_count": 738
+    "stargazers_count": 8681,
+    "open_issues_count": 473,
+    "forks_count": 736
   },
   {
     "full_name": "NakliTechie/KanZen",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "localsend/localsend",
-    "stargazers_count": 92950,
-    "open_issues_count": 1131,
-    "forks_count": 5195
+    "stargazers_count": 93174,
+    "open_issues_count": 1113,
+    "forks_count": 5205
   },
   {
     "full_name": "NakliTechie/LocalMind",
@@ -103,25 +103,25 @@
   },
   {
     "full_name": "rtk-ai/rtk",
-    "stargazers_count": 81957,
-    "open_issues_count": 1536,
-    "forks_count": 5202
+    "stargazers_count": 82193,
+    "open_issues_count": 1566,
+    "forks_count": 5215
   },
   {
     "full_name": "pranshuparmar/witr",
-    "stargazers_count": 22533,
+    "stargazers_count": 22566,
     "open_issues_count": 19,
-    "forks_count": 789
+    "forks_count": 791
   },
   {
     "full_name": "plaid/sandbox-custom-users",
     "stargazers_count": 76,
     "open_issues_count": 2,
-    "forks_count": 71
+    "forks_count": 72
   },
   {
     "full_name": "tabulapdf/tabula-java",
-    "stargazers_count": 2041,
+    "stargazers_count": 2042,
     "open_issues_count": 197,
     "forks_count": 450
   },
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "grpc/grpc-java",
-    "stargazers_count": 12073,
-    "open_issues_count": 546,
-    "forks_count": 4011
+    "stargazers_count": 12074,
+    "open_issues_count": 542,
+    "forks_count": 4015
   },
   {
     "full_name": "smithoss/gonymizer",
@@ -170,8 +170,8 @@
   {
     "full_name": "raycast/extensions",
     "stargazers_count": 7771,
-    "open_issues_count": 1624,
-    "forks_count": 7005
+    "open_issues_count": 1599,
+    "forks_count": 7042
   },
   {
     "full_name": "vitalets/playwright-webhook-reporter",
