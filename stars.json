@@ -1,63 +1,63 @@
 [
   {
     "full_name": "affaan-m/ECC",
-    "stargazers_count": 270836,
-    "open_issues_count": 336,
-    "forks_count": 40494
+    "stargazers_count": 273826,
+    "open_issues_count": 354,
+    "forks_count": 40853
   },
   {
     "full_name": "TencentCloud/TencentDB-Agent-Memory",
-    "stargazers_count": 27633,
-    "open_issues_count": 882,
-    "forks_count": 2665
+    "stargazers_count": 27722,
+    "open_issues_count": 900,
+    "forks_count": 2680
   },
   {
     "full_name": "ggml-org/whisper.cpp",
-    "stargazers_count": 54090,
-    "open_issues_count": 351,
-    "forks_count": 6201
+    "stargazers_count": 54164,
+    "open_issues_count": 353,
+    "forks_count": 6206
   },
   {
     "full_name": "Vladimir-Urik/OxMgr",
-    "stargazers_count": 262,
+    "stargazers_count": 268,
     "open_issues_count": 19,
     "forks_count": 23
   },
   {
     "full_name": "diegosouzapw/OmniRoute",
-    "stargazers_count": 72170,
-    "open_issues_count": 543,
-    "forks_count": 10312
+    "stargazers_count": 73424,
+    "open_issues_count": 762,
+    "forks_count": 10538
   },
   {
     "full_name": "bbernhard/signal-cli-rest-api",
-    "stargazers_count": 2863,
-    "open_issues_count": 149,
-    "forks_count": 311
+    "stargazers_count": 2866,
+    "open_issues_count": 153,
+    "forks_count": 310
   },
   {
     "full_name": "stupside/castor",
-    "stargazers_count": 2383,
+    "stargazers_count": 2391,
     "open_issues_count": 4,
     "forks_count": 87
   },
   {
     "full_name": "erkserkserks/openboard",
-    "stargazers_count": 226,
+    "stargazers_count": 227,
     "open_issues_count": 8,
     "forks_count": 12
   },
   {
     "full_name": "kunchenguid/lavish-axi",
-    "stargazers_count": 3945,
-    "open_issues_count": 57,
-    "forks_count": 356
+    "stargazers_count": 3988,
+    "open_issues_count": 55,
+    "forks_count": 362
   },
   {
     "full_name": "headroomlabs-ai/headroom",
-    "stargazers_count": 74262,
-    "open_issues_count": 443,
-    "forks_count": 5748
+    "stargazers_count": 74469,
+    "open_issues_count": 408,
+    "forks_count": 5764
   },
   {
     "full_name": "Zackptg5/Disable_Dm-Verity_ForceEncrypt",
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "ritesh-kanwar/Cashiro",
-    "stargazers_count": 191,
+    "stargazers_count": 192,
     "open_issues_count": 85,
-    "forks_count": 39
+    "forks_count": 41
   },
   {
     "full_name": "florisboard/florisboard",
-    "stargazers_count": 8681,
-    "open_issues_count": 473,
-    "forks_count": 736
+    "stargazers_count": 8684,
+    "open_issues_count": 474,
+    "forks_count": 741
   },
   {
     "full_name": "NakliTechie/KanZen",
@@ -85,13 +85,13 @@
   },
   {
     "full_name": "localsend/localsend",
-    "stargazers_count": 93174,
-    "open_issues_count": 1113,
-    "forks_count": 5205
+    "stargazers_count": 93473,
+    "open_issues_count": 1059,
+    "forks_count": 5229
   },
   {
     "full_name": "NakliTechie/LocalMind",
-    "stargazers_count": 62,
+    "stargazers_count": 65,
     "open_issues_count": 0,
     "forks_count": 9
   },
@@ -99,23 +99,23 @@
     "full_name": "NakliTechie/bahi",
     "stargazers_count": 3,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "rtk-ai/rtk",
-    "stargazers_count": 82193,
-    "open_issues_count": 1566,
-    "forks_count": 5215
+    "stargazers_count": 82475,
+    "open_issues_count": 1506,
+    "forks_count": 5250
   },
   {
     "full_name": "pranshuparmar/witr",
-    "stargazers_count": 22566,
-    "open_issues_count": 19,
-    "forks_count": 791
+    "stargazers_count": 22585,
+    "open_issues_count": 2,
+    "forks_count": 788
   },
   {
     "full_name": "plaid/sandbox-custom-users",
-    "stargazers_count": 76,
+    "stargazers_count": 77,
     "open_issues_count": 2,
     "forks_count": 72
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "StateSmith/StateSmith",
-    "stargazers_count": 950,
+    "stargazers_count": 949,
     "open_issues_count": 133,
     "forks_count": 96
   },
@@ -152,8 +152,8 @@
   {
     "full_name": "grpc/grpc-java",
     "stargazers_count": 12074,
-    "open_issues_count": 542,
-    "forks_count": 4015
+    "open_issues_count": 541,
+    "forks_count": 4014
   },
   {
     "full_name": "smithoss/gonymizer",
@@ -170,8 +170,8 @@
   {
     "full_name": "raycast/extensions",
     "stargazers_count": 7771,
-    "open_issues_count": 1599,
-    "forks_count": 7042
+    "open_issues_count": 1594,
+    "forks_count": 7079
   },
   {
     "full_name": "vitalets/playwright-webhook-reporter",
