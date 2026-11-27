@@ -7,63 +7,63 @@
   },
   {
     "full_name": "affaan-m/ECC",
-    "stargazers_count": 309854,
-    "open_issues_count": 204,
-    "forks_count": 45566
+    "stargazers_count": 311487,
+    "open_issues_count": 231,
+    "forks_count": 45761
   },
   {
     "full_name": "TencentCloud/TencentDB-Agent-Memory",
-    "stargazers_count": 31137,
-    "open_issues_count": 841,
-    "forks_count": 3056
+    "stargazers_count": 31221,
+    "open_issues_count": 850,
+    "forks_count": 3064
   },
   {
     "full_name": "ggml-org/whisper.cpp",
-    "stargazers_count": 55472,
+    "stargazers_count": 55576,
     "open_issues_count": 368,
-    "forks_count": 6346
+    "forks_count": 6359
   },
   {
     "full_name": "Vladimir-Urik/OxMgr",
-    "stargazers_count": 314,
+    "stargazers_count": 315,
     "open_issues_count": 16,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "cheaper-inference/OmniRoute",
-    "stargazers_count": 89989,
-    "open_issues_count": 865,
-    "forks_count": 13968
+    "stargazers_count": 90639,
+    "open_issues_count": 955,
+    "forks_count": 14121
   },
   {
     "full_name": "bbernhard/signal-cli-rest-api",
-    "stargazers_count": 2932,
-    "open_issues_count": 169,
+    "stargazers_count": 2936,
+    "open_issues_count": 167,
     "forks_count": 319
   },
   {
     "full_name": "stupside/castor",
-    "stargazers_count": 2550,
-    "open_issues_count": 12,
-    "forks_count": 103
+    "stargazers_count": 2554,
+    "open_issues_count": 16,
+    "forks_count": 104
   },
   {
     "full_name": "erkserkserks/openboard",
-    "stargazers_count": 237,
+    "stargazers_count": 238,
     "open_issues_count": 8,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "kunchenguid/lavish-axi",
-    "stargazers_count": 4656,
-    "open_issues_count": 80,
-    "forks_count": 437
+    "stargazers_count": 4677,
+    "open_issues_count": 78,
+    "forks_count": 441
   },
   {
     "full_name": "headroomlabs-ai/headroom",
-    "stargazers_count": 80706,
-    "open_issues_count": 365,
-    "forks_count": 6329
+    "stargazers_count": 80970,
+    "open_issues_count": 337,
+    "forks_count": 6359
   },
   {
     "full_name": "Zackptg5/Disable_Dm-Verity_ForceEncrypt",
@@ -75,13 +75,13 @@
     "full_name": "ritesh-kanwar/Cashiro",
     "stargazers_count": 213,
     "open_issues_count": 103,
-    "forks_count": 52
+    "forks_count": 53
   },
   {
     "full_name": "florisboard/florisboard",
-    "stargazers_count": 8800,
+    "stargazers_count": 8805,
     "open_issues_count": 476,
-    "forks_count": 771
+    "forks_count": 773
   },
   {
     "full_name": "NakliTechie/KanZen",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "localsend/localsend",
-    "stargazers_count": 100568,
-    "open_issues_count": 1041,
-    "forks_count": 5783
+    "stargazers_count": 101102,
+    "open_issues_count": 1048,
+    "forks_count": 5843
   },
   {
     "full_name": "NakliTechie/LocalMind",
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "rtk-ai/rtk",
-    "stargazers_count": 87663,
-    "open_issues_count": 1696,
-    "forks_count": 5628
+    "stargazers_count": 87995,
+    "open_issues_count": 1742,
+    "forks_count": 5658
   },
   {
     "full_name": "pranshuparmar/witr",
-    "stargazers_count": 23416,
-    "open_issues_count": 7,
-    "forks_count": 830
+    "stargazers_count": 23457,
+    "open_issues_count": 6,
+    "forks_count": 833
   },
   {
     "full_name": "plaid/sandbox-custom-users",
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "tabulapdf/tabula-java",
-    "stargazers_count": 2045,
+    "stargazers_count": 2044,
     "open_issues_count": 197,
     "forks_count": 453
   },
   {
     "full_name": "StateSmith/StateSmith",
-    "stargazers_count": 957,
+    "stargazers_count": 958,
     "open_issues_count": 133,
     "forks_count": 96
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "grpc/grpc-java",
-    "stargazers_count": 12078,
-    "open_issues_count": 556,
-    "forks_count": 4015
+    "stargazers_count": 12080,
+    "open_issues_count": 555,
+    "forks_count": 4014
   },
   {
     "full_name": "smithoss/gonymizer",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "raycast/extensions",
-    "stargazers_count": 7851,
-    "open_issues_count": 1628,
-    "forks_count": 7680
+    "stargazers_count": 7855,
+    "open_issues_count": 1605,
+    "forks_count": 7729
   }
 ]
